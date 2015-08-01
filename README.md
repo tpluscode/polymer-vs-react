@@ -1,3 +1,5 @@
-## Paket presentation
+## Polymer+flux presentation
 
-The master branch contains the raw files for the presentation. Please go to the [gh-pages branch](../../) for deployed version.
+Run `grunt` to start
+
+Code at [https://github.com/tpluscode/polymer-flux/tree/vs-react](https://github.com/tpluscode/polymer-flux/tree/vs-react)

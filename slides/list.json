@@ -52,7 +52,8 @@
                 "data-background": "/images/light.jpg"
             }
         },
-        "flux/react.md"
+        "flux/react.md",
+        "flux/polymer.md"
     ],
     "links.md"
 ]

@@ -36,6 +36,12 @@
             "attr": {
                 "data-background": "/images/ring.jpeg"
             }
+        },
+        {
+            "filename": "polymer/breaking-changes.md",
+            "attr": {
+                "data-background": "/images/chain%20broken.jpg"
+            }
         }
     ],
     [

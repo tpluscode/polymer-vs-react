@@ -1,3 +1,13 @@
 [
-    "index.md"
+    [
+        "index.md",
+        "index2.md"
+    ],
+    [
+        "components/index.md",
+        "components/custom-elements.md",
+        "components/templates.md",
+        "components/imports.md",
+        "components/shadow-dom.md"
+    ]
 ]

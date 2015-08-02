@@ -59,7 +59,14 @@
             }
         },
         "flux/react.md",
-        "flux/polymer.md"
+        "flux/polymer.md",
+        "flux/reflux.md"
     ],
+    {
+        "filename": "demo.md",
+        "attr": {
+            "data-background-video": "/video/rollercoaster.mp4"
+        }
+    },
     "links.md"
 ]

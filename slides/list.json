@@ -23,6 +23,12 @@
             }
         },
         {
+            "filename": "components/imports.md",
+            "attr": {
+                "data-background": "/images/watch.jpg"
+            }
+        },
+        {
             "filename": "components/shadow-dom.md",
             "attr": {
                 "data-background": "/images/watch.jpg"

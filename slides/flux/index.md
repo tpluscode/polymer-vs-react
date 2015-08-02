@@ -1,0 +1,1 @@
+<img src="/images/flux.png" style="border: none;" alt="polymer logo" />

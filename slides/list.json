@@ -4,10 +4,55 @@
         "index2.md"
     ],
     [
-        "components/index.md",
-        "components/custom-elements.md",
-        "components/templates.md",
-        "components/imports.md",
-        "components/shadow-dom.md"
-    ]
+        {
+            "filename": "components/index.md",
+            "attr": {
+                "data-background": "/images/watch.jpg"
+            }
+        },
+        {
+            "filename": "components/custom-elements.md",
+            "attr": {
+                "data-background": "/images/watch.jpg"
+            }
+        },
+        {
+            "filename": "components/templates.md",
+            "attr": {
+                "data-background": "/images/watch.jpg"
+            }
+        },
+        {
+            "filename": "components/shadow-dom.md",
+            "attr": {
+                "data-background": "/images/watch.jpg"
+            }
+        }
+    ],
+    [
+        "polymer/index.md",
+        {
+            "filename": "polymer/features.md",
+            "attr": {
+                "data-background": "/images/ring.jpeg"
+            }
+        }
+    ],
+    [
+        "flux/index.md",
+        {
+            "filename": "flux/mvc.md",
+            "attr": {
+                "data-background": "/images/genesis.jpg"
+            }
+        },
+        {
+            "filename": "flux/flux.md",
+            "attr": {
+                "data-background": "/images/light.jpg"
+            }
+        },
+        "flux/react.md"
+    ],
+    "links.md"
 ]

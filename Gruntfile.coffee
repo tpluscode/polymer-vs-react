@@ -71,6 +71,7 @@ module.exports = (grunt) ->
                         'img/**'
                         'images/**'
                         'video/**'
+                        'font/**'
                         'css/**',
                         'CNAME',
                         'examples/**'
